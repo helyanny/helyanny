@@ -1,16 +1,12 @@
 ## Hi there 👋
 
 <!--
-**helyanny/helyanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 🎥 Backend Software Engineer
 - 🔭 I’m currently working on a GUI made with Java!
 - 🌱 I’m currently learning AWS Cloud services, JavaScript and more DSA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Data Structures and 
-- 💬 Ask me about 3
-- 📫 How to reach me: ...
+- 📫 How to reach me: email - helyanny@gmail.com or Linkedin: www.linkedin.com/in/helyanny
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I was a character artist in a video game-making contest called GDM Studios (hosted by McGill GameDev)! 
--->
+- ⚡ Fun fact: I was a 2D character artist in a video game-making contest called GDM Studios (hosted by McGill GameDev)! 
+--> Link to the game: https://acaciesong.itch.io/lostinhell
