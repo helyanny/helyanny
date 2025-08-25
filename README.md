@@ -1,7 +1,7 @@
 ## Hello I'm Helyanny 👋
 
 
-- 🎥 Backend Software Engineer
+- 🎥 Backend Software Engineer - Student at McGill University in Computer Science
 - 🔭 I’m currently working on a GUI made with Java!
 - 🌱 I’m currently learning AWS Cloud services, JavaScript and more DSA
 - 👯 I’m looking to collaborate on ...
