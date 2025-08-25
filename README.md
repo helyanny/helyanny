@@ -1,4 +1,4 @@
-## Hello I'm Helyanny 👋
+## Hello, I'm Helyanny 👋
 
 
 - 🎥 Backend Software Engineer - Student at McGill University in Computer Science
