@@ -1,7 +1,7 @@
 ## Hello, I'm Helyanny 👋
 
 
-- 🎥 Backend Software Engineer - Student at McGill University in Computer Science
+- 🎥 Software Developer - Student at McGill University in Computer Science
 - 🔭 I’m currently working on a GUI made with Java!
 - 🌱 I’m currently learning AWS Cloud services, JavaScript and more DSA
 - 📫 How to reach me: [email](helyanny@gmail.com) or [Linkedin](www.linkedin.com/in/helyanny)
