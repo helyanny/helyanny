@@ -29,7 +29,7 @@ You can find my best projects pinned on my profile or visit my website 🗂️
 - Fluent in English, French and Spanish
 
 ## How to contact me
-You can shoot me an [email:helyanny@icloud.com] or message me on [LinkedIn:www.linkedin.com/in/helyanny]! Always ready to chat ⭐️
+You can shoot me an [email](helyanny@icloud.com) or message me on [LinkedIn](www.linkedin.com/in/helyanny)! Always ready to chat ⭐️
 
 
 
