@@ -1,9 +1,35 @@
-## Hello, I'm Helyanny 👋
+## Welcome to my Github Account 👋
+
+I'm Helyanny Perozo, a computer science student at McGill University and data analyst based in Montreal!
+
+I enjoy finding out what causes things and testing out what "luck" means because there is always
+more to things than we can see.
+
+## Technical Skills
+
+Data Analysis:
+- SQL
+- Excel
+- Power BI
+- Python
+- R
+
+Programming
+- Java
+- C/C++
+- Clojure
+- Bash Scripting
+
+You can find my best projects pinned on my profile or visit my website 🗂️
+
+## Fun Facts about me:
+- I am an avid gamer and mostly play on the Ps5 or Nintendo Switch 
+- I'm also a true Formula 1 fanatic 🏎️
+- An artist who happens to be into data 🎨
+- Fluent in English, French and Spanish
+
+## How to contact me
+You can shoot me an email[helyanny@icloud.com] or message me on LinkedIn![www.linkedin.com/in/helyanny] Always ready to chat ⭐️
 
 
-- 🎥 Computer Science @ McGill University
-- 🌱 I’m currently working on a personal blog website!
-- 💻 Video game and 3D animation enjoyer
-- 📫 How to reach me: [email](helyanny@icloud.com) or [Linkedin](www.linkedin.com/in/helyanny)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I was a 2D character artist in a video game-making contest called GDM Studios (hosted by McGill GameDev)! Link to the [game](https://acaciesong.itch.io/lostinhell)
+
