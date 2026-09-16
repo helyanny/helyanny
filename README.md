@@ -18,7 +18,7 @@ Programming
 - Java
 - C/C++
 - Clojure
-- Bash Scripting
+- Linux
 
 You can find my best projects pinned on my profile or visit my website 🗂️
 
