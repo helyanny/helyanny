@@ -12,7 +12,7 @@ Data Analysis:
 - Excel
 - Power BI
 - Python
-- R
+- R (in progress)
 
 Programming
 - Java
