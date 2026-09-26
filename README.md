@@ -12,7 +12,6 @@ Data Analysis:
 - Excel
 - Power BI
 - Python
-- R (in progress)
 
 Programming
 - Java
@@ -25,7 +24,7 @@ You can find my best projects pinned on my profile or visit my website 🗂️
 ## Fun Facts about me:
 - I am an avid gamer and mostly play on the Ps5 or Nintendo Switch 
 - I'm also a true Formula 1 fanatic 🏎️
-- An artist who happens to be into data 🎨
+- An artist who happens to be into technology 🎨
 - Fluent in English, French and Spanish
 
 ## How to contact me
