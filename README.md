@@ -2,8 +2,7 @@
 
 I'm Helyanny Perozo, a computer science student at McGill University and data analyst based in Montreal!
 
-I enjoy finding out what causes things and testing out what "luck" means because there is always
-more to things than we can see.
+Analyzing data is like gossiping, but the numbers are what give you the juicy tea 🍵.
 
 ## Technical Skills
 
@@ -13,17 +12,17 @@ Data Analysis:
 - Power BI
 - Python
 
-Programming
+Programming:
 - Java
 - C/C++
 - Clojure
 - Linux
 
-You can find my best projects pinned on my profile or visit my website 🗂️
+You can find my portfolio pinned on my profile (or my website in the near future) 🗂️
 
 ## Fun Facts about me:
 - I am an avid gamer and mostly play on the Ps5 or Nintendo Switch 
-- I'm also a true Formula 1 fanatic 🏎️
+- I'm also a huge Formula 1 fanatic 🏎️
 - An artist who happens to be into technology 🎨
 - Fluent in English, French and Spanish
 
