@@ -2,7 +2,7 @@
 
 I'm Helyanny Perozo, a computer science student at McGill University and data analyst based in Montreal!
 
-Analyzing data is like gossiping, but the numbers are what give you the juicy tea 🍵.
+Snooping around with data is like gossiping, but the numbers are what give you the juicy tea 🍵.
 
 ## Technical Skills
 
