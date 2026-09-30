@@ -9,16 +9,15 @@ Snooping around with data is like gossiping, but the numbers are what give you t
 Data Analysis:
 - SQL
 - Excel
-- Power BI
-- Python
+- Power BI and Python (for data analysis) in progress!
 
 Programming:
+- Python
 - Java
 - C/C++
 - Clojure
 - Linux
 
-You can find my portfolio pinned on my profile (or my website in the near future) 🗂️
 
 ## Fun Facts about me:
 - I am an avid gamer and mostly play on the Ps5 or Nintendo Switch 
